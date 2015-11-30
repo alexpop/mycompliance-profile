@@ -1,0 +1,10 @@
+name 'demo/windows'
+title 'Demo Windows Profile'
+maintainer 'Demo Company Ltd.'
+copyright 'Demo Company Ltd.'
+copyright_email 'contact@example.com'
+license 'Proprietary, All rights reserved'
+summary 'Verify that Windows nodes are configured securely'
+description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
+version '1.0.2'
+supports 'windows'
