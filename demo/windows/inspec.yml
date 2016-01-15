@@ -1,0 +1,10 @@
+name: demo/windows
+title: Demo Windows Profile
+maintainer: Demo, Inc.
+copyright: Demo, Inc.
+copyright_email: support@example.com
+license: Proprietary, All rights reserved
+summary: Verify that Windows nodes are configured securely
+version: 0.0.1
+supports:
+  - windows
