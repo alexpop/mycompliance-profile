@@ -1,4 +1,4 @@
-control 'mydemo-001' do
+control 'mywinport-001' do
   impact 0.3
   title '0.0.1 - Not listening on port 80'
   desc '

@@ -1,6 +1,6 @@
-control 'mylinuxdemo-002' do
+control 'iptables-001' do
   impact 0.5
-  title '0.0.2 - iptables is on'
+  title '0.0.1 - iptables is on'
   desc '
     iptables service is installed
     iptables service is enabled to start at boot

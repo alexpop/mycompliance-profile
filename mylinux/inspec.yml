@@ -1,0 +1,10 @@
+name: mylinux
+title: My Demo Linux Profile
+maintainer: Demo, Inc.
+copyright: Demo, Inc.
+copyright_email: support@example.com
+license: Proprietary, All rights reserved
+summary: Verify that Linux nodes are configured securely
+version: 0.1.4
+supports:
+  - os-family: unix
