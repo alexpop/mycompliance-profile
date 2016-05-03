@@ -1,0 +1,10 @@
+name: centos6l1-inheritance
+title: InSpec CentOS 6 Level 1 lite
+maintainer: Chef Software, Inc.
+copyright: Chef Software, Inc.
+copyright_email: support@chef.io
+license: Apache 2 license
+summary: Demonstrates InSpec profile inheritance
+version: 1.0.0
+supports:
+  - os-family: unix
