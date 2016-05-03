@@ -1,5 +1,5 @@
-name: centos6l1-inheritance
-title: InSpec CentOS 6 Level 1 lite
+name: cis-centos6-l1-lite
+title: CIS CentOS 6 Level 1 lite(inherits cis/cis-centos6-level1)
 maintainer: Chef Software, Inc.
 copyright: Chef Software, Inc.
 copyright_email: support@chef.io
