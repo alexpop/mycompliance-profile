@@ -1,0 +1,10 @@
+name: mylinux-success-failure
+title: Mylinux Success Failure
+maintainer: Chef Software, Inc.
+copyright: Chef Software, Inc.
+copyright_email: support@chef.io
+license: Apache 2 license
+summary: Demonstrates the use of InSpec Compliance Profile
+version: 1.8.99
+supports:
+  - os-family: unix
